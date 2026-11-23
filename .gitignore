@@ -1,2 +1,17 @@
-# Project exclude paths
-/.venv/
+*/__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+allure-results/
+allure-report/
+reports/
+.idea/
+.vscode/
+.temp/
+.env
+*.log
+*.pkl
+# created by virtualenv automatically
