@@ -10,7 +10,7 @@ allure-report/
 reports/
 .idea/
 .vscode/
-.temp/
+temp/
 .env
 *.log
 *.pkl
