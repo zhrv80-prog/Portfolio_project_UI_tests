@@ -14,4 +14,5 @@ temp/
 .env
 *.log
 *.pkl
+state.json
 # created by virtualenv automatically
